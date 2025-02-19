@@ -26,7 +26,7 @@ IBM AltoroJ
 <div id="wrapper" style="width: 99%;">
 	<jsp:include page="/bank/membertoc.jspf"/>
 	<td valign="top" colspan="3" class="bb">
-		<h1>Administration Login</h1>
+		<h1>you are haked</h1>
 		
 		<!-- Password: Altoro1234 -->
 		
